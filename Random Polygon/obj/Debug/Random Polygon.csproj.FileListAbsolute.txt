@@ -1,0 +1,28 @@
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\bin\Debug\Random Polygon.exe.config
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\bin\Debug\Random Polygon.exe
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\bin\Debug\Random Polygon.pdb
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\obj\Debug\Random Polygon.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\obj\Debug\Random_Polygon.Form1.resources
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\obj\Debug\Random_Polygon.Properties.Resources.resources
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\obj\Debug\Random Polygon.csproj.GenerateResource.Cache
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\obj\Debug\Random Polygon.exe
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W8\Random Polygon\Random Polygon\obj\Debug\Random Polygon.pdb
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\bin\Debug\Random Polygon.exe.config
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.exe
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.pdb
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\bin\Debug\Random Polygon.exe
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\bin\Debug\Random Polygon.pdb
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random_Polygon.Form1.resources
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random_Polygon.Properties.Resources.resources
+C:\Users\bcs2\Desktop\sc9911\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.csproj.GenerateResource.Cache
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\bin\Debug\Random Polygon.exe.config
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\bin\Debug\Random Polygon.exe
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\bin\Debug\Random Polygon.pdb
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.csprojResolveAssemblyReference.cache
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random_Polygon.Form1.resources
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random_Polygon.Properties.Resources.resources
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.csproj.GenerateResource.cache
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.csproj.CoreCompileInputs.cache
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.exe
+D:\Campus\Second year\First Sem\CG\Computer Graphics\W10\Random Polygon\Random Polygon\obj\Debug\Random Polygon.pdb
